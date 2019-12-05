@@ -19,7 +19,8 @@ Honeypots Deployed
   16,496
   
 ## Malware Samples
-  - <img src='session.gif' title='XSS' width='' alt='' />
+  - <img src='sessiongif.gif' title='XSS' width='' alt='' />
+  - <img src='sensorgif.gif' title='XSS' width='' alt='' />
   
 
 ## Notes
